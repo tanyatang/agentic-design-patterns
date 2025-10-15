@@ -1,0 +1,5 @@
+[book]
+authors = ["Rochy"]
+language = "en"
+src = "./"
+title = "Agentic Design Patterns"
