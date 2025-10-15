@@ -131,12 +131,16 @@ agentic-design-patterns/
 - [翻译指南](translation-guide.md) - 详细的翻译规范和注意事项
 - [项目结构说明](PROJECT_STRUCTURE.md) - 项目文件组织说明
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=xindoo/agentic-design-patterns&type=date&legend=top-left)](https://github.com/xindoo/agentic-design-patterns)
+
 ## 📄 许可证
 
 本翻译项目遵循原书的许可证条款。翻译内容仅供学习交流使用。
 
 ## 联系我们
-邮箱: ixindoo@gmail.com
+邮箱: ixindoo@gmail.com  
 个人网站: [https://zxs.io/](https://zxs.io/)
 
 ---
