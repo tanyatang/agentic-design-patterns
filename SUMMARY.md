@@ -2,16 +2,16 @@
 
 ---
 
-[Agentic Design Patterns](README.md)
+[智能体设计模式](README.md)
 [贡献指南](CONTRIBUTING.md)
 [项目结构说明](PROJECT_STRUCTURE.md)
 [目录](TABLE_OF_CONTENTS.md)
-[glossary](glossary.md)
+[词汇表](glossary.md)
 [翻译进度追踪](progress.md)
 [翻译指南](translation-guide.md)
 
-- [章节目录](chapters/README.md)
-  - [智能体设计模式](<chapters/Agentic Design Patterns.md>)
+- [中文翻译](chapters/README.md)
+  - [目录](<chapters/Agentic Design Patterns.md>)
     - [第 1 章：提示链](<chapters/Chapter 1_ Prompt Chaining.md>)
     - [第 2 章：路由](<chapters/Chapter 2_ Routing.md>)
     - [第 3 章：并行化](<chapters/Chapter 3_ Parallelization.md>)
@@ -44,10 +44,8 @@
     - [术语表](chapters/Glossary.md)
     - [术语索引](<chapters/Index of Terms.md>)
     - [常见问题解答：Agentic 设计模式](<chapters/Frequently Asked Questions_ Agentic Design Patterns.md>)
-
-- [图片资源目录](images/README.md)
-- [原文目录](original/README.md)
-  - [智能体设计模式](<original/Agentic Design Patterns.md>)
+- [英文原文](original/README.md)
+  - [目录](<original/Agentic Design Patterns.md>)
     - [第 1 章：提示链](<original/Chapter 1_ Prompt Chaining.md>)
     - [第 2 章：路由](<original/Chapter 2_ Routing.md>)
     - [第 3 章：并行化](<original/Chapter 3_ Parallelization.md>)
@@ -77,6 +75,7 @@
     - [附录 F：深入探究：智能体推理引擎内部机制](<original/Appendix F  - Under the Hood_ An Inside Look at the Agents Reasoning Engines.md>)
     - [附录 G：编程智能体](<original/Appendix G -  Coding agents.md>)
 
+[图片资源目录](images/README.md)
 [总结](original/Conclusion.md)
 [术语表](original/Glossary.md)
 [术语索引](<original/Index of Terms.md>)
